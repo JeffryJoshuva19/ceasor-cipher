@@ -1,4 +1,5 @@
 import java.util.*;
+//this code performs the playfair cipher
 
 public class PlayfairCipher {
     private static final int SIZE = 5;

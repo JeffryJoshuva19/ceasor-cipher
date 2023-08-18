@@ -105,3 +105,4 @@ public class hillcipher {
             System.out.println("Wrong choice");
     }
 }
+//by jeffry joshuva amalan

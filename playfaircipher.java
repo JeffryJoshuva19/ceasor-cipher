@@ -149,3 +149,4 @@ public class PlayfairCipher {
         scanner.close();
     }
 }
+//by jeffry joshuva amalan j
